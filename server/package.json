@@ -1,0 +1,17 @@
+{
+  "name": "swiggy-mind-reader-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "seed": "node src/db/seed.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "ioredis": "^5.4.1",
+    "node-cron": "^3.0.3"
+  }
+}

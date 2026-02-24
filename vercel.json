@@ -1,0 +1,5 @@
+{
+    "buildCommand": "cd client && npm install --cache /tmp/npm-cache && npm run build",
+    "outputDirectory": "client/dist",
+    "framework": null
+}

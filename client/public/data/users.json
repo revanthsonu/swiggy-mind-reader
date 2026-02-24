@@ -1,0 +1,112 @@
+[
+  {
+    "id": 11,
+    "name": "Arjun Kumar",
+    "vegnessScore": 0.2,
+    "preferredCuisines": [
+      "Mughlai",
+      "Andhra",
+      "Hyderabadi"
+    ],
+    "area": "Koramangala"
+  },
+  {
+    "id": 12,
+    "name": "Priya Sharma",
+    "vegnessScore": 1,
+    "preferredCuisines": [
+      "South Indian",
+      "Cafe",
+      "Healthy"
+    ],
+    "area": "Indiranagar"
+  },
+  {
+    "id": 13,
+    "name": "Rahul Verma",
+    "vegnessScore": 0.3,
+    "preferredCuisines": [
+      "Fast Food",
+      "Continental",
+      "Chinese"
+    ],
+    "area": "Koramangala"
+  },
+  {
+    "id": 14,
+    "name": "Sneha Reddy",
+    "vegnessScore": 0.1,
+    "preferredCuisines": [
+      "Andhra",
+      "Hyderabadi",
+      "North Indian"
+    ],
+    "area": "BTM Layout"
+  },
+  {
+    "id": 15,
+    "name": "Vikram Singh",
+    "vegnessScore": 0.9,
+    "preferredCuisines": [
+      "South Indian",
+      "North Indian",
+      "Italian"
+    ],
+    "area": "Indiranagar"
+  },
+  {
+    "id": 16,
+    "name": "Ananya Desai",
+    "vegnessScore": 1,
+    "preferredCuisines": [
+      "South Indian",
+      "Cafe",
+      "Snacks"
+    ],
+    "area": "Koramangala"
+  },
+  {
+    "id": 17,
+    "name": "Karthik Nair",
+    "vegnessScore": 0.15,
+    "preferredCuisines": [
+      "Mughlai",
+      "Fast Food",
+      "Mexican"
+    ],
+    "area": "Koramangala"
+  },
+  {
+    "id": 18,
+    "name": "Meera Iyer",
+    "vegnessScore": 1,
+    "preferredCuisines": [
+      "South Indian",
+      "Healthy",
+      "Italian"
+    ],
+    "area": "Indiranagar"
+  },
+  {
+    "id": 19,
+    "name": "Aditya Joshi",
+    "vegnessScore": 0.4,
+    "preferredCuisines": [
+      "Multi-Cuisine",
+      "Chinese",
+      "Continental"
+    ],
+    "area": "MG Road"
+  },
+  {
+    "id": 20,
+    "name": "Divya Menon",
+    "vegnessScore": 0.8,
+    "preferredCuisines": [
+      "South Indian",
+      "North Indian",
+      "Cafe"
+    ],
+    "area": "Koramangala"
+  }
+]
