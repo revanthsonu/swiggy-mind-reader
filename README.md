@@ -2,8 +2,6 @@
 
 **Personalized cart recommendation engine** inspired by [Swiggy's Mind Reader](https://bytes.swiggy.com/building-a-mind-reader-at-swiggy-using-data-science-5a5c38aa6c17) — predicts what you want to eat before you even search.
 
-### 🔗 [Live Demo →](https://swiggy-mind-reader.vercel.app)
-
 ![Mind Reader Demo](https://img.shields.io/badge/status-live-brightgreen) ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Latency](https://img.shields.io/badge/API%20latency-%3C1ms%20cached-blue)
 
 ---
