@@ -14,9 +14,9 @@
 ┌─────────────────────────────────────────────────────┐
 │                  RECOMMENDATION PIPELINE            │
 │                                                     │
-│  ┌──────────┐   ┌──────────────┐   ┌─────────────┐ │
-│  │RETRIEVAL │──▶│  FILTERING   │──▶│  RANKING    │ │
-│  │          │   │              │   │             │ │
+│  ┌──────────-┐   ┌──────────────┐   ┌─────────────┐ │
+│  │RETRIEVAL  │──▶│  FILTERING   │──▶│  RANKING    │ │
+│  │           │   │              │   │             │ │
 │  │• Platform │   │• Dish-family │   │• Popularity │ │
 │  │  popular  │   │  pairing     │   │• Affinity   │ │
 │  │  orders   │   │  validation  │   │• Rating     │ │
@@ -24,7 +24,7 @@
 │  │  history  │   │  constraint  │   │• Pairing    │ │
 │  │• Cross-   │   │  filtering   │   │  coherence  │ │
 │  │  sell     │   │              │   │• De-dupe    │ │
-│  └──────────┘   └──────────────┘   └─────────────┘ │
+│  └──────────-┘   └──────────────┘   └─────────────┘ │
 │                                                     │
 │  Cache Layer: Pre-computed at startup → <1ms serve  │
 └─────────────────────────────────────────────────────┘
